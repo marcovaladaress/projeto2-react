@@ -11,7 +11,7 @@ export default function App() {
           avatar={profileImage}
           name="Marco Valadares"
           bio="Full-stack java script developer"
-          email="marcovaladaress@gmail.com"
+          email="contato@marcovsfernandes.com"
           phone="(98) 98129-9623"
           githubUrl="https://github.com/marcovaladaress"
           linkedinUrl="https://www.linkedin.com/in/marcoaureliovaladares"
